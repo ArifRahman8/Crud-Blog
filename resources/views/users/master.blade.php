@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Blog Laravel</title>
+    <title>Blog Kita</title>
 
     <!-- Custom fonts for this template-->
     <link href="{{asset('startbootstrap-sb-admin-2-gh-pages/vendor/fontawesome-free/css/all.min.css')}}" type="text/css" rel="stylesheet">
@@ -77,7 +77,7 @@
                         <li class="nav-item dropdown no-arrow">
                             <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <span class="mr-2 d-none d-lg-inline text-gray-600 small">Settings</span>
+                                <span class="mr-2 d-none d-lg-inline text-gray-600 small">Menu</span>
                             </a>
                             <!-- Dropdown - User Information -->
                             <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
